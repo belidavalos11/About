@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JavaScript, React, HTML, CSS, Redux, NodeJS, SQL**
 
-- 📫 How to reach me **belidavalos.bd@gmail.com**
+- 📫 How to reach me **belidavalos.bd@gmail.com** or phone: +5493875053884
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
